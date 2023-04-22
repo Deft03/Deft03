@@ -36,7 +36,7 @@
 	  <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCRnG1RDjxk2rjVctPN54EUg">
 			<img src="https://img.icons8.com/doodle/1x/youtube--v2.png"></a>
 
-      </div>
+</div>
 
 </p>
 

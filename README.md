@@ -7,11 +7,11 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I'm in my 3rd year at <a href="https://en.hcmute.edu.vn/" target="blank">HCMC University of Technology and Education</a>
+- 🔭 I'm in my 4rd year at <a href="https://en.hcmute.edu.vn/" target="blank">HCMC University of Technology and Education</a>
 
 - 🌱 I study mechatronics and have a great passion for embedding
 
-- 💬 I have exp with C, Python, linux os. 
+- 💬 I have exp with C/C++, Python, linux os. 
 
 - 📫 How to reach me **thanhsang.ute@gmail.com**
 

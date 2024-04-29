@@ -11,7 +11,7 @@
 
 - 🌱 I study mechatronics and have a great passion for embedding
 
-- 💬 I have exp with C/C++, Python, linux os. 
+- 💬 I have exp with C, C++, Python, linux OS, Android OS, SystemC, Embedded System. 
 
 - 📫 How to reach me **thanhsang.ute@gmail.com**
 
